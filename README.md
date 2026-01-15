@@ -15,14 +15,31 @@
 
 ## 🚀 About Me
 
-🔴 **Passionate Windows Exploit Developer | Red Teaming | Pentesting | Bug Bounty**  
-**Python/Go Expert | Learning C++ | 3+ Years OffSec Experience**
+🛠️ I build and break systems for a living.
+3+ years of hands-on experience in offensive security, focused on Windows & Linux exploitation, red team tradecraft, and custom tooling.
 
-Mastering Windows/Linux Exploitation, C2 agents, Python/Go Tooling  
-Always Learning Evasion & Offensive Techniques
+🐍⚙️ My core strengths are Python and Go for offensive tooling, automation, and C2 components.
+🧠 Currently going deep into C++ to sharpen low-level exploitation, memory corruption, and Windows internals.
 
-#RedTeam #WindowsExploits #OffSec
+🔥 I actively work on:
 
+🪟🐧 Windows & Linux exploitation (userland + internals)
+
+🎯 Custom C2 agents, loaders, and infrastructure
+
+🛡️ Evasion techniques (EDR/AV-aware design, OPSEC-first tooling)
+
+🧪 Red team tooling and proof-of-concept exploits
+
+🐞 Bug bounty research with an exploitation-first mindset
+
+🔍 I care less about “running tools” and more about how and why things break.
+📈 Always learning, always tearing things apart, always improving tradecraft.
+
+🎯 Focus: Windows exploitation · Red Team ops · Low-level research
+💻 Languages: Python, Go, C++ (in progress)
+
+#RedTeam #WindowsExploitation #OffSec #Pentesting #BugBounty #C2 #MalDev
 ## 📚 Learning & Knowledge
 
 <div align="left">
