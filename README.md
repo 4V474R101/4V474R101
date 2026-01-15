@@ -48,6 +48,3 @@ Always Learning Evasion & Offensive Techniques
 **Thank you for visiting my profile! 😊**
 
 ### 🎯 "Happy Hacking."
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-</div>
