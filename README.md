@@ -1,16 +1,52 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://wallpapercave.com/wp/wp2050740.jpg" alt="Profile Banner" width="100%" />
+</div>
 
-<!--
-**4V474R101/4V474R101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+# Hi 👋, I'm Achilles
 
-Here are some ideas to get you started:
+### ⛑ RED TEAMING |🪲 BUG BOUNTY | ☢️ EXPLOIT DEVELOPMENT | 🐉 PENETRATION TESTING
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" alt="Red Team GIF" width="400" height="200"/>
+</div>
+
+## 🚀 About Me
+
+🔴 **Passionate Windows Exploit Developer | Red Teaming | Pentesting | Bug Bounty**  
+**Python/Go Expert | Learning C++ | 3+ Years OffSec Experience**
+
+Mastering Windows/Linux Exploitation, C2 agents, Python/Go Tooling  
+Always Learning Evasion & Offensive Techniques
+
+#RedTeam #WindowsExploits #OffSec
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+- 🌱 Currently learning **Advanced Red Teaming TTPs | C++ Programming | Reverse Engineering**
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 💻 Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-017393?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+<div align="center">
+### 🎯 "Hacking Thrill: Intellectual Curiosity Meets Adventure's Seduction." – Kevin Mitnick
+
+**Thank you for visiting my profile! 😊**
+
+### 🎯 "Happy Hacking."
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+</div>
