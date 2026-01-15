@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-# Hi 👋, I'm Achilles
-
-### ⛑ RED TEAMING |🪲 BUG BOUNTY | ☢️ EXPLOIT DEVELOPMENT | 🐉 PENETRATION TESTING
+  <h1><b>Hi 👋, I'm Achilles</b></h1>
+  
+  ### ⛑ RED TEAMING |🪲 BUG BOUNTY | ☢️ EXPLOIT DEVELOPMENT | 🐉 PENETRATION TESTING
 </div>
+
 
 <div align="center">
 <img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" alt="Red Team GIF" width="400" height="200"/>
